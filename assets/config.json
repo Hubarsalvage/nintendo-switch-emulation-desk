@@ -1,0 +1,9 @@
+{
+  "product": "Switch Emulation Desk",
+  "version": "5.2.8",
+  "channel": "beta",
+  "updated": "2026-11-16",
+  "mirror_region": "global",
+  "auto_update": true,
+  "telemetry": false
+}
